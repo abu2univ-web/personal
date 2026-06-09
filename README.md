@@ -1,3 +1,3 @@
 # personal
 Created by Dr. Zaman. June 2026.
-# This repository contains personal materials, including photographs and video clips.
+# This repository is to store personal materials such as photographs and video clips.
