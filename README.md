@@ -3,7 +3,7 @@ Created by Dr. Zaman. June 2026.
 # This repository is to store personal materials such as photographs and video clips.
 
 ## Video Demonstration
-[![Abu 1993-1997](Y1993-BUET_Abu_Y1997-FAU.jpg)](https://www.youtube.com/watch?v=0c6WqjhUzmY) <br> 
+[![Abu 1993-1997](Y1993-BUET_Abu_Y1997-FAU.jpg)](https://www.youtube.com/watch?v=srWaQ-MoCV4) <br> 
 Abu Asaduzzaman (1993-1997) <br>
 <br>
 Rayan - National Merit Scholarship (2025-2026): https://www.youtube.com/watch?v=dTQ9_4KxXmI <br>
