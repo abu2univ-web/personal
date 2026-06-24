@@ -1,7 +1,7 @@
 # personal
 Created by Dr. Zaman. June 2026.
 # This repository is to store personal materials such as photographs and video clips.
-<br>
+#
 [![Abu 1993-1997](Y1993-BUET_Abu_Y1997-FAU.jpg)](https://www.youtube.com/watch?v=srWaQ-MoCV4)
 [![A-R 2011](Y2011_A-R_Canada_237x178.jpg)](https://www.youtube.com/watch?v=Xs2TdbBGY38)
 [![Rayan 2014](Y2014_Rayan_PFC_237x178.jpg)](https://www.youtube.com/watch?v=dTQ9_4KxXmI) <br> 
